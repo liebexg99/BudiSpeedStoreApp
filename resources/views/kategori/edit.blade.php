@@ -24,7 +24,7 @@
                             <a href="{{ route('kategori.index') }}" class="btn btn-secondary">
                                 <i class="fas fa-arrow-left me-1"></i> Kembali
                             </a>
-                            <button type="submit" class="btn" style="background-color:rgba(40, 167, 70, 0.3);">
+                            <button type="submit" class="btn" style="background-color:rgba(167, 40, 40, 0.3);">
                                 <i class="fas fa-save me-1"></i> Update
                             </button>
                         </div>
